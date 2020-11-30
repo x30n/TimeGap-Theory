@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Welcome | OWASP TimeGap Theory Labs</title>
+  <link rel=icon" type="image/png" href="common/lab.png">
   <link rel="icon" type="image/png" href="common/lab.png">
   <link rel="stylesheet" href="common/bulma.css" id="light" title="Light">
   <link rel="stylesheet" href="common/bulmadark.css"  id="dark"  title="Dark" disabled>
